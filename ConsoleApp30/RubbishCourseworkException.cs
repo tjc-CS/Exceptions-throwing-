@@ -14,5 +14,10 @@ namespace ConsoleApp30
         {
             updateRequired = fix;
         }
+
+        public string WhatDoIDo()
+        {
+            return updateRequired;
+        }
     }
 }
