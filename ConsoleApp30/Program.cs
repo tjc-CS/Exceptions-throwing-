@@ -17,6 +17,9 @@ namespace ConsoleApp30
             {
                 Console.WriteLine(e.WhatDoIDo());
             }
+
+           
+
         }
 
         static void TakeCourseworkIn(int mark) 
